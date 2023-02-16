@@ -1,4 +1,4 @@
-#'creat ehistogram, boxplot and numeric summary
+#'create histogram, boxplot and numeric summary
 #'@export
 #'@param x numeric variable
 rday4<- function(x){
